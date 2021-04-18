@@ -10,4 +10,4 @@ Processing steps performed:
 
 # Output files written to the output blob container
 
-![img](https://github.com/bsathyamur/EquityMarketDataAnalysis-Capstone/blob/main/EMDA-Architecture%20Diagram.jpg)
+![img](https://github.com/bsathyamur/spark-dataPipeline/blob/main/blob-output.png)
