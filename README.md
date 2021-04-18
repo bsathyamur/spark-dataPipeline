@@ -1,4 +1,4 @@
-# Building a spark data pipeline using pyspark
+# Building a spark data pipeline
 
 The goal of the project is to use the walmar_sales.csv file data, upload to the azure blob container, perform the following processing steps in the file, split the files based on country (Uk and others) and upload to the output blob container.
 
